@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/15/467815967.jpg" group-title="MBC",mbc1
-http://m-iptv.net:6204/live/miran/123/24.m3u8
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/12/634553297.jpg" group-title="افلام",هجرة الرسول
 https://shoofmax.b-cdn.net/hijrat-alrasool/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/01/189295981.jpg" group-title="افلام",اعدام بريء
@@ -635,3 +633,63 @@ https://shoofmax.b-cdn.net/baad-idat-sanawat/ep28/720p/index.m3u8
 https://shoofmax.b-cdn.net/baad-idat-sanawat/ep29/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/00/716693030.jpg" group-title="بعد عدة سنوات",الحلقة30الاخيرة
 https://shoofmax.b-cdn.net/baad-idat-sanawat/ep30/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة1
+https://shoofmax.b-cdn.net/bortraih/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة2
+https://shoofmax.b-cdn.net/bortraih/ep2/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة3
+https://shoofmax.b-cdn.net/bortraih/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة4
+https://shoofmax.b-cdn.net/bortraih/ep4/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة5
+https://shoofmax.b-cdn.net/bortraih/ep5/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة6
+https://shoofmax.b-cdn.net/bortraih/ep6/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة7
+https://shoofmax.b-cdn.net/bortraih/ep7/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة8
+https://shoofmax.b-cdn.net/bortraih/ep8/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة9
+https://shoofmax.b-cdn.net/bortraih/ep9/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة10
+https://shoofmax.b-cdn.net/bortraih/ep10/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة11
+https://shoofmax.b-cdn.net/bortraih/ep11/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة12
+https://shoofmax.b-cdn.net/bortraih/ep12/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة13
+https://shoofmax.b-cdn.net/bortraih/ep13/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة41
+https://shoofmax.b-cdn.net/bortraih/ep14/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة15
+https://shoofmax.b-cdn.net/bortraih/ep15/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة16
+https://shoofmax.b-cdn.net/bortraih/ep16/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة17
+https://shoofmax.b-cdn.net/bortraih/ep17/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة18
+https://shoofmax.b-cdn.net/bortraih/ep18/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة19
+https://shoofmax.b-cdn.net/bortraih/ep19/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة20
+https://shoofmax.b-cdn.net/bortraih/ep20/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة21
+https://shoofmax.b-cdn.net/bortraih/ep21/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة22
+https://shoofmax.b-cdn.net/bortraih/ep22/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة23
+https://shoofmax.b-cdn.net/bortraih/ep23/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة24
+https://shoofmax.b-cdn.net/bortraih/ep24/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة25
+https://shoofmax.b-cdn.net/bortraih/ep25/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة26
+https://shoofmax.b-cdn.net/bortraih/ep26/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة27
+https://shoofmax.b-cdn.net/bortraih/ep27/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة28
+https://shoofmax.b-cdn.net/bortraih/ep28/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة29
+https://shoofmax.b-cdn.net/bortraih/ep29/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/03/08/16/410409855.jpg" group-title="بورتريه سنوات",الحلقة30الاخيرة
+https://shoofmax.b-cdn.net/bortraih/ep30/720p/index.m3u8
